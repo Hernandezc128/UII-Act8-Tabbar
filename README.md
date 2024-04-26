@@ -22,6 +22,9 @@ Link de >Referencia
 -https://youtu.be/uK27aIW2Cxc?si=3UUvSOyj2mbb7ua6
 
 Resultado de trabajo
-![image](https://github.com/Hernandezc128/UII-Act8-Tabbar/assets/143743758/e06a17bc-ec4d-4147-953b-a00c1b79cfa4)
-![image](https://github.com/Hernandezc128/UII-Act8-Tabbar/assets/143743758/2dc0b635-c4b4-4864-b74f-a44aed2554d5)
+![image](https://github.com/Hernandezc128/UII-Act8-Tabbar/assets/143743758/6cb14c88-85ee-45aa-a1bd-1f2c26873057)
+![image](https://github.com/Hernandezc128/UII-Act8-Tabbar/assets/143743758/07d02b0f-8aa3-44af-96fd-e41ae2cb59cd)
+![image](https://github.com/Hernandezc128/UII-Act8-Tabbar/assets/143743758/9278322a-1ca7-4350-bbce-39a26510c266)
+
+
 
